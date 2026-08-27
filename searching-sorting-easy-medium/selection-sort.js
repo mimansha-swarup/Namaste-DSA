@@ -12,6 +12,7 @@ Output: [1, 3, 4, 5, 9]
 
  */
 
+//  smallest pick kr ke left side main lgate jaante and sbse smallest phle lgate toh left main sorted array rhega 
 
 const selectionSort = (nums) =>{
     let n = nums.length
